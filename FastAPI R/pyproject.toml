@@ -1,0 +1,8 @@
+[project]
+name="fastapi_react"
+version="1.0.0"
+dependencies = [
+    "fastapi[all]>=0.128.0",
+    "pyjwt>=2.10.1",
+    "python-jose[cryptography]>=3.5.0",
+]
